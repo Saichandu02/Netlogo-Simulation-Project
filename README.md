@@ -5,7 +5,7 @@ This repository contains the code and methodology for simulating the spread of i
 
 ## **How to Run**
 ### **Prerequisites**
-- Install NetLogo (version X.X or higher).
+- Install NetLogo (version 6.4 or higher).
 
 ### **Steps**
 1. Clone this repository:
